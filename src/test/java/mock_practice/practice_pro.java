@@ -10,7 +10,7 @@ public class practice_pro {
 	}
 	public void practice2()
 	{
-		System.out.println("practice-2");
+		System.out.println("practice-22");
 	}
 
 }
