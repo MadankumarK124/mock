@@ -14,7 +14,7 @@ public class practice_pro {
 	}
 	public void practice3()
 	{
-		System.out.println("practice-3");
+		System.out.println("practice-34");
 	}
 	
 
