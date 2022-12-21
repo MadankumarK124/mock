@@ -12,5 +12,10 @@ public class practice_pro {
 	{
 		System.out.println("practice-22");
 	}
+	public void practice3()
+	{
+		System.out.println("practice-3");
+	}
+	
 
 }
